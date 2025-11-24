@@ -1,11 +1,12 @@
 {
     "method_not_allowed": "Metoda niedozwolona.",
-    "missing_required_field": "Brak wymaganego pola '{field}'.",
+    "missing_required_field": "Brak wymaganego pola {field}.",
     "order_created_successfully": "Zamówienie utworzone pomyślnie.",
     "order_not_found": "Zamówienie o ID {id} nie zostało znalezione.",
     "update_failed": "Nie udało się zaktualizować zamówienia lub zamówienie nie istnieje.",
     "order_updated_successfully": "Zamówienie zaktualizowane pomyślnie.",
     "delete_failed": "Nie udało się usunąć zamówienia lub zamówienie nie istnieje.",
     "missing_id_for_update": "Brak ID zamówienia do aktualizacji.",
-    "missing_id_for_delete": "Brak ID zamówienia do usunięcia."
+    "missing_id_for_delete": "Brak ID zamówienia do usunięcia.",
+    "invalid_json": "Nieprawidłowy format JSON."
 }
