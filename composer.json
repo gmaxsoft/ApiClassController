@@ -1,5 +1,6 @@
 {
     "name": "gmaxsoft/rest-class-controller",
+    "version": "1.0.0",
     "description": "Universal REST API Controller with SOLID principles",
     "type": "project",
     "license": "MIT",
