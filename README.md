@@ -8,6 +8,37 @@ Uniwersalny kontroler REST API napisany w PHP, zgodny z zasadami SOLID. Obsługu
 - Composer
 - XAMPP lub inny serwer Apache/Nginx z obsługą PHP
 
+## Zastosowane Technologie
+
+### Język i Framework
+- **PHP 7.4+** - Język programowania
+- **PSR-4** - Standard autoloadingu klas
+
+### Narzędzia i Biblioteki
+- **Composer** - Menedżer zależności dla PHP
+- **PHPUnit 9.x** - Framework do testów jednostkowych
+
+### Architektura i Wzorce Projektowe
+- **SOLID Principles** - Zasady projektowania obiektowego
+  - Single Responsibility Principle (SRP)
+  - Open/Closed Principle (OCP)
+  - Liskov Substitution Principle (LSP)
+  - Interface Segregation Principle (ISP)
+  - Dependency Inversion Principle (DIP)
+- **Dependency Injection** - Wstrzykiwanie zależności
+- **Repository Pattern** - Abstrakcja warstwy danych przez interfejsy
+
+### Technologie Webowe
+- **REST API** - Architektura API oparta na protokole HTTP
+- **JSON** - Format wymiany danych
+- **Apache mod_rewrite** - Przekierowanie URL-i do routera
+- **HTTP Methods** - GET, POST, PUT, DELETE, PATCH
+
+### Struktura Projektu
+- **MVC Pattern** - Separacja logiki (Controller, Service)
+- **Router** - Obsługa routingu żądań HTTP
+- **Locale Manager** - Zarządzanie tłumaczeniami (i18n)
+
 ## Instalacja
 
 1. Sklonuj repozytorium lub pobierz pliki projektu.
